@@ -1,0 +1,1 @@
+# photoswipe-auto-hide-ui
