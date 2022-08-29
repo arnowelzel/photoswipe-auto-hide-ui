@@ -4,7 +4,7 @@ This plugin adds automatic hiding of the UI to [PhotoSwipe 5](https://github.com
 
 When the user moved the mouse, a timeout will start after which the UI will be hidden when the mouse is not moved. When the mouse is moved again, the UI will be displayed again. If touch device is detected due to a "tap" event instead of mouse move, the UI will stay visible as it can be hidden or displayed on mobile devices by tapping the display once.
 
-This plugin is also used in [Lightbox with PhotoSWipe](https://wordpress.org/plugins/lightbox-photoswipe/).
+This plugin is also used in [Lightbox with PhotoSwipe](https://wordpress.org/plugins/lightbox-photoswipe/).
 
 ## Using the plugin
 
