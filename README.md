@@ -37,8 +37,7 @@ If you also use the ["dynamic caption" plugin](https://github.com/dimsemenov/pho
 
 ```
 .pswp__dynamic-caption--aside,
-.pswp__dynamic-caption--below,
-.pswp__dynamic-caption--mobile {
+.pswp__dynamic-caption--below {
   opacity: 1 !important;
 }
 ```
