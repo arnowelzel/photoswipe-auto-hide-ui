@@ -42,3 +42,9 @@ If you also use the ["dynamic caption" plugin](https://github.com/dimsemenov/pho
   opacity: 1 !important;
 }
 ```
+
+## Changelog
+
+### 1.0.0
+
+Initial release.
