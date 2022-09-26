@@ -44,6 +44,10 @@ If you also use the ["dynamic caption" plugin](https://github.com/dimsemenov/pho
 
 ## Changelog
 
+### 1.0.1
+
+Fixed potential error when closing the lightbox.
+
 ### 1.0.0
 
 Initial release.
